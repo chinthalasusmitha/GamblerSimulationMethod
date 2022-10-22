@@ -3,8 +3,8 @@ package com.gamblingsimulation;
 
 public class GamblerStartsTheGame {
 
-    public static final int STAKE = 100;
-    public static final int BET_VALUE = 1;
+    public static final int dailyStake = 100;
+    public static final int betValue = 1;
 
     public static void main(String[] args) {
         System.out.println("Welcome to Gambling Simulation Program");
